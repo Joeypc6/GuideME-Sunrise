@@ -16,7 +16,7 @@ Mods that ship a guide through it: Applied Energistics 2, Iron Furnaces, Hostile
 authors = ["Sunrise port: Joeypc6", "AppliedEnergistics2 team (guidebook)"]
 homepage = "https://github.com/Joeypc6/GuideME-Sunrise"
 issues = "https://github.com/Joeypc6/GuideME-Sunrise/issues"
-categories = ["utility"]
+categories = ["library", "utility"]
 
 [[screenshots]]
 path = "page/1-guide.jpg"
