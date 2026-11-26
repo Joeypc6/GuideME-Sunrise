@@ -1,6 +1,6 @@
 id = "guideme"
 name = "GuideME"
-version = "0.1.0"
+version = "0.1.1"
 description = "AE2's guidebook as a shared library for Sunrise: every mod's pages from assets/<ns>/ae2guide, W over an item to open its page, 3D scenes you can turn, translated pages."
 authors = ["Sunrise port: Joeypc6", "AppliedEnergistics2 team (guidebook)"]
 api = "0.2"
