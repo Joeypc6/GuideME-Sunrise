@@ -1,0 +1,11 @@
+{
+  "key.guideme.open": "Abrir la guía (sobre un objeto)",
+  "guideme.contents": "Índice",
+  "guideme.hint": "Pulsa %s para la guía",
+  "guideme.click_to_open": "Haz clic para abrir su página",
+  "guideme.scene_hint": "Arrastra para girar, rueda para acercar",
+  "guideme.lang_code": "es_es",
+  "guideme.commands.everyone": "Cualquiera puede usarlo",
+  "guideme.commands.level": "Nivel de operador %s",
+  "guideme.commands.title": "Comandos"
+}

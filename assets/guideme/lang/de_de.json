@@ -1,0 +1,11 @@
+{
+  "key.guideme.open": "Handbuch öffnen (über einem Gegenstand)",
+  "guideme.contents": "Inhalt",
+  "guideme.hint": "%s drücken für das Handbuch",
+  "guideme.click_to_open": "Klicken, um seine Seite zu öffnen",
+  "guideme.scene_hint": "Ziehen zum Drehen, Mausrad zum Zoomen",
+  "guideme.lang_code": "de_de",
+  "guideme.commands.everyone": "Jeder kann ihn ausführen",
+  "guideme.commands.level": "Operatorstufe %s",
+  "guideme.commands.title": "Befehle"
+}

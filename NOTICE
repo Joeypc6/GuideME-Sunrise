@@ -1,0 +1,14 @@
+GuideME for Sunrise
+===================
+
+This mod ports the guidebook of Applied Energistics 2 (appeng.client.guidebook,
+https://github.com/AppliedEnergistics/Applied-Energistics-2), which is licensed
+under the GNU Lesser General Public License v3.0 (LICENSE). The guide's page
+format, its Markdown tags and its behaviour follow AE2's; the code here is a new
+implementation on Sunrise's mod API by Joeypc6, under the same licence.
+
+This is an unofficial port. It is not made, endorsed or supported by the AE2
+team, Mojang or Microsoft.
+
+The icon (icon.png) is Applied Energistics 2's guide item texture, scaled up;
+AE2's textures are licensed under CC BY-NC-SA 3.0 by the AE2 team.

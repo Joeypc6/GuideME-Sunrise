@@ -1,0 +1,11 @@
+{
+  "key.guideme.open": "Open Guide (over an item)",
+  "guideme.contents": "Contents",
+  "guideme.hint": "Press %s for the guide",
+  "guideme.click_to_open": "Click to open its page",
+  "guideme.scene_hint": "Drag to turn, scroll to zoom",
+  "guideme.lang_code": "en_us",
+  "guideme.commands.everyone": "Everyone can run this",
+  "guideme.commands.level": "Operator level %s",
+  "guideme.commands.title": "Commands"
+}

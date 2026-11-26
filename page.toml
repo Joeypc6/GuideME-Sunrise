@@ -1,0 +1,23 @@
+summary = "The W guide: one shared guidebook library that Sunrise mods put their pages in."
+description = """
+The W guide for Sunrise mods: AE2's guidebook as one shared library mod.
+
+A port of the guidebook from [Applied Energistics 2](https://github.com/AppliedEnergistics/Applied-Energistics-2) to [Sunrise](https://playsunrise.net) (Minecraft Java 26.3). The code is a new implementation on Sunrise's mod API; the page format, Markdown tags and behaviour follow AE2's. LGPL-3.0, see `LICENSE` and `NOTICE`.
+
+What it does:
+
+- Press W over an item in any container screen to open its guide page; W or Esc closes it, Backspace goes back.
+- `/guideme <namespace>` opens a mod's guide on its own screen.
+- A navigation tree, links, item links, recipes, tables, pictures and 3D scenes of real block models you can turn and zoom.
+- Translated pages, chosen by the game's language, with English where a page has none.
+
+Mods that ship a guide through it: Applied Energistics 2, Iron Furnaces, Hostile Neural Networks and Tinkers' Construct for Sunrise. A mod only needs its pages under `assets/<namespace>/ae2guide/`; no code.
+"""
+authors = ["Sunrise port: Joeypc6", "AppliedEnergistics2 team (guidebook)"]
+homepage = "https://github.com/Joeypc6/GuideME-Sunrise"
+issues = "https://github.com/Joeypc6/GuideME-Sunrise/issues"
+categories = ["utility"]
+
+[[screenshots]]
+path = "page/1-guide.jpg"
+caption = "The W guide, opened from an Iron Furnaces item."
